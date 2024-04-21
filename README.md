@@ -2,6 +2,9 @@
 
 Student Name: Ameli Fernando
 
+This is the Jabberpoint assignment
+The source code and the diagrams can be found this file.
+
 File structure:
 Diagrams: Consists of all diagrams and the report.
 Refactored code: Consists of all the refactored code.
